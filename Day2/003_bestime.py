@@ -24,3 +24,6 @@ def maximumProfit(prices):
 
 # 1st attempt: passed(6June) # but takes 15+ min for brutforce, so not good
 
+
+# https://www.codingninjas.com/codestudio/problems/stocks-are-profitable_893405?topList=striver-sde-sheet-problems
+
