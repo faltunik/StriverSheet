@@ -1,5 +1,6 @@
 # https://www.codingninjas.com/codestudio/problems/merge-intervals_699917?topList=striver-sde-sheet-problems
 
+from typing import List
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         intervals = sorted(intervals)
