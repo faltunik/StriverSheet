@@ -17,3 +17,6 @@ def KMostFrequent(n: int, k: int, arr: List[int]) -> List[int]:
         if c>=k:
             return sorted(ans)
     return sorted(ans)
+
+
+# optimize
